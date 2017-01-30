@@ -1,0 +1,68 @@
+<streams>
+	//1      "name": ITP Lobby Cam,
+    <stream url="http://172.22.151.18/mjpg/video.mjpg"/>
+	//2   "name": "Macy's test",
+    <stream url="http://108.176.32.18:8081/cgi-bin/camera?"/>
+	//3   "name": "Macy's test",
+    <stream url="http://108.176.32.18:8081/cgi-bin/camera?"/>
+	//4    "name": "NYC View",
+    <stream url="http://50.74.18.246:80/mjpg/video.mjpg"/>
+    //   5 "name": "NYC Street View 2 ",
+	<stream url="http://50.74.179.18:8000/mjpg/video.mjpg?COUNTERt="/>
+    // 6    "name": "10 Ave @ 57 St",
+	<stream url="http://207.251.86.238/cctv722.jpg"/>
+    //  7      "name": "11 Ave @ 57th St
+	<stream url="http://207.251.86.238/cctv721.jpg"/>
+    // 8        "name": "Lexington Ave @ 72 St",
+	<stream url="http://207.251.86.238/cctv181.jpg"/>
+    // 9            "name": "2 Ave @ 125 St",
+	<stream url="http://207.251.86.238/cctv102.jpg"/>
+    //  10 "name": "2 Ave @ 23 St",
+	<stream url="http://207.251.86.238/cctv699.jpg"/>
+    //  12       "name": "3 Ave @ 23 St",
+	<stream url="http://207.251.86.238/cctv430.jpg"/>
+    // 13  "name": ""3 Ave @ 42 St
+	<stream url="http://207.251.86.238/cctv290.jpg"/>
+    //      Brooklyn Bridge
+    <stream url="http://207.251.86.238/cctv14.jpg"/>
+    // 14  "name": "3 Ave @ 49 St"
+	<stream url="http://207.251.86.238/cctv429.jpg"/>
+    //  15  "name": "3 Ave @ E 14 St",
+	<stream url="http://207.251.86.238/cctv739.jpg"/>
+    
+    //  16  "name": "Broadway at 46th St",
+    <stream url="http://207.251.86.238/cctv26.jpg"/>
+    // 17   "name": "5 Ave @ 34 St",
+	<stream url="http://207.251.86.238/cctv305.jpg"/>
+    // 18     "name": "5 Ave @ 49 St",
+	<stream url="http://207.251.86.238/cctv8.jpg"/>
+    
+    //19      "name":"  5 Ave @ 57 St
+	<stream url="http://207.251.86.238/cctv299.jpg"/>
+	
+    // 20   "name": "6 Ave @ 14 St",
+	<stream url="http://207.251.86.238/cctv446.jpg"/>
+    // 21 HERE  "name": "6 Ave @ 23 St",
+	<stream url="http://207.251.86.238/cctv448.jpg"/>
+    // 22   "name": "6 Ave @ 34 St",
+	<stream url="http://207.251.86.238/cctv9.jpg"/>
+    // 23   "name": "6 Ave @ 49 St",
+	<stream url="http://207.251.86.238/cctv10.jpg"/>
+    // 24   "name": "Grand St @ Broadway",
+	<stream url="http://207.251.86.238/cctv457.jpg"/>
+
+    // 25   "name": "6 Ave @ 58 St",
+    <stream url="http://207.251.86.238/cctv401.jpg"/>
+    // 26   "name": "6 Ave @ West Houston St",
+	<stream url="http://207.251.86.238/cctv666.jpg"/>
+
+    // 27   "name": "7 Ave @ 23St",
+    <stream url="http://207.251.86.238/cctv447.jpg"/>
+    // 28   "name": "7 Ave @ 34 St",
+	<stream url="http://207.251.86.238/cctv440.jpg"/>
+    // 29   "name": "7 Ave @ 49 St",
+	<stream url="http://207.251.86.238/cctv439.jpg"/>
+
+    // 30   "name": "7 Ave @ 57 St",
+	<stream url="http://207.251.86.238/cctv444.jpg"/>
+    </streams>
