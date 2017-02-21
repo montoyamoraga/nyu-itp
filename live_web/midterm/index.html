@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>live web midterm</title>
+
+    <script src="/socket.io/socket.io.js"></script>
+
+    <script src="./libraries/peer.js"></script>
+
+    <!-- <script src="./libraries/osc-browser.min.js"></script> -->
+
+    <!-- <script src="./node_modules/webmidi/webmidi.min.js"></script> -->
+
+    <script src="./js/app.js"></script>
+</head>
+
+<body>
+    <p>yo this is my midterm</p>
+    <p>start by setting up your id</p>
+
+    <input type="text" id="myid">
+    <input type="button" value="Set ID" onClick="setId();">
+
+    <p>now you can see yourself right here</p>
+
+    <video id="myVideo" width="320" height="240" muted></video>
+
+    <p>and you can choose who to call here</p>
+
+    <input type="text" id="peertocall">
+    <input type="button" value="Make call" id="makecall" onClick="makeCall();">
+
+    <br />
+
+    <input type="text" id="noteNumber">
+    <input type="button" value="oscMessage" id="oscNote" onClick="sendOsc();">
+
+    <br />
+
+    <!-- <video id="otherVideo" width="320" height="240"></video> -->
+
+
+</body>
+
+</html>

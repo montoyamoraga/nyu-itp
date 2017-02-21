@@ -1,0 +1,69 @@
+<html>
+
+<head>
+    <script src="./peer.min.js"></script>
+
+    <script type="text/javascript">
+        var mypeerid = null;
+        var peer = null;
+        var connections = [];
+        var connection = null;
+
+        var init = function() {
+            peer = new Peer('aaron',{
+                host: 'liveweb.itp.io',
+                port: 9000,
+                path: '/'
+            });
+
+            peer.on('open', function(id) {
+                console.log('my peer id is: ' + id);
+                mypeerid = id;
+            });
+
+            peer.on('connection', function(conn) {
+                connection = conn;
+                connection.on('open', function() {
+                    document.getElementById('chatlog').innerHTML += "connection established";
+                });
+                connection.on('data', function(data) {
+                    document.getElementById('chatlog').innerHTML += data + "<br/>";
+                    broadcastMessage(data);
+                });
+
+                connection.push(connection);
+            });
+        };
+
+        var broadcastMessage = function(msg) {
+
+        }
+
+        var sendMessage = function() {
+            connection.send(document.getElementById('chat').value);
+            document.getElementById('chat').value = "";
+        };
+
+        var makeConnection = function() {
+            connection = peer.connect(document.getElementById('other_peer_id').value);
+            connection.on('open', function(data) {
+                document.getElementById('chatlog').innerHTML += "Connection Established";
+            });
+
+            connection.on('data', function(data) {
+                document.getElementById('chatlog').innerHTML += data;
+            });
+        };
+    </script>
+</head>
+
+<body onload="init()">
+
+    <input type="text" id="other_peer_id" value="PeerID to connect with">
+    <input type="button" value="Call" onclick="makeConnection()"><br />
+    <input type="text" id="chat">
+    <input type="button" value="Send" onclick="sendMessage()"><br />
+    <div id="chatlog"></div>
+</body>
+
+</html>

@@ -1,0 +1,29 @@
+body {
+	background-color: green;
+	font-size: 12pt;
+	color: purple;
+}
+
+#me, #meInfo {
+	background-color: orange;
+}
+
+#meContent {
+	background-color: ghostwhite;
+}
+
+#meInfoContent {
+	background-color: hotpink;
+}
+
+#other, #otherInfo {
+	background-color: cyan;
+}
+
+#otherContent {
+	background-color: yellow;
+}
+
+#otherInfoContent {
+	background-color: yellowgreen;
+}

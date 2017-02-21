@@ -1,0 +1,63 @@
+<html>
+	<head>
+		<script src="/socket.io/socket.io.js"></script>
+		<script>
+			var socket = io.connect();
+			
+			socket.on('connect', function() {
+				console.log("Connected");
+			});
+
+			socket.on('image', function (data) {
+                console.log("Got image");
+				document.getElementById('imagefile').src = data;
+            });
+			
+			var initWebRTC = function() {
+			
+				// These help with cross-browser functionality
+				window.URL = window.URL || window.webkitURL || window.mozURL || window.msURL;
+				navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia || navigator.msGetUserMedia;
+				
+				// The video element on the page to display the webcam
+				var video = document.getElementById('thevideo');
+
+				// if we have the method
+				if (navigator.getUserMedia) {
+					navigator.getUserMedia({video: true}, function(stream) {
+							video.src = window.URL.createObjectURL(stream) || stream;
+							video.play();
+						}, function(error) {alert("Failure " + error.code);});
+				}
+							
+				var thecanvas = document.getElementById('thecanvas');
+				var thecontext = thecanvas.getContext('2d');
+				
+				var draw = function() {
+					thecontext.drawImage(video,0,0,video.width,video.height);
+					var dataUrl = thecanvas.toDataURL('image/webp', 1);
+					document.getElementById('imagefile').src = dataUrl;
+					socket.emit('image', dataUrl);
+					setTimeout(draw,3000);
+					
+				};
+
+				draw();			
+			};
+			
+			window.addEventListener('load', initWebRTC);
+		</script>
+	</head>
+	<body>
+		From Socket:
+		<img src="" id="imagefile">
+		<br />
+		
+		Local Video: <video id="thevideo" width="320" height="240" autoplay></video>
+		<br />
+		Local Canvas: <canvas id="thecanvas" width="320" height="240"></canvas>
+		<br />
+		
+	</body>
+</html>
+

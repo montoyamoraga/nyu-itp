@@ -1,0 +1,34 @@
+<html>
+	<head>
+		<script type="text/javascript">
+
+      //websocket variable
+			var websocket;
+
+      //initialize function
+			var init = function() {
+
+        //assign to websocket a WebSocket variable
+        //connection to the echo.websocket.org server using the ws protocol
+
+				websocket = new WebSocket("ws://echo.websocket.org");
+
+				// Callbacks
+				websocket.onopen = function(evt) { alert("onopen " + evt) };
+				websocket.onclose = function(evt) { alert("onclose " + evt) };
+				websocket.onmessage = function(evt) { alert("onmessage " + evt.data) };
+				websocket.onerror = function(evt) { alert("onerror " + evt) };
+			};
+
+			var send = function(message) {
+				websocket.send(message);
+			};
+
+			window.addEventListener("load", init, false);
+		</script>
+	</head>
+	<body>
+		<input type="text" value="Hi" />
+		<input type="button" value="send" onclick="send(this.value);" />
+	</body>
+</html>

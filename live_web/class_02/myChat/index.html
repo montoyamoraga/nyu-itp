@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<meta charset="utf-8">
+	<title>tell me stuff</title>
+
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+
+	<script type="text/javascript" src="./socket.io/socket.io.js"></script>
+
+	<script type="text/javascript" src="./js/myChat.js">
+	</script>
+
+</head>
+
+<body id="body">
+	<div id="intro">
+		say stuff plz
+	</div>
+
+	<div id="credits">
+		heavily based on work by shawn van every and nicole he
+	</div>
+
+	<div id="connection" class="header"> </div>
+
+
+	<div id="textBox" class="box" onKeyPress="return checkSubmit(event)">
+
+		<p>
+			<textarea id="message" name="message" class="textarea" rows="4" cols="50">put stuff here.</textarea>
+		</p>
+	</div>
+
+</body>
+
+</html>
