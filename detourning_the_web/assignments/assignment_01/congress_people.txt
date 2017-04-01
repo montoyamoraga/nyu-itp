@@ -1,0 +1,120 @@
+<img alt="Sergio Aguiló" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl00_FotoDiputado" src="/img.aspx?prmid=chs802" width="55"/>
+<img alt="Jenny Alvarez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl01_FotoDiputado" src="/img.aspx?prmid=chs968" width="55"/>
+<img alt="Pedro Pablo Alvarez-Salamanca" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl02_FotoDiputado" src="/img.aspx?prmid=chs923" width="55"/>
+<img alt="Osvaldo Andrade" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl03_FotoDiputado" src="/img.aspx?prmid=chs924" width="55"/>
+<img alt="Claudio Arriagada" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl04_FotoDiputado" src="/img.aspx?prmid=chs969" width="55"/>
+<img alt="Pepe Auth" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl05_FotoDiputado" src="/img.aspx?prmid=chs925" width="55"/>
+<img alt="Ramón Barros" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl06_FotoDiputado" src="/img.aspx?prmid=chs811" width="55"/>
+<img alt="Germán Becker" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl07_FotoDiputado" src="/img.aspx?prmid=chs813" width="55"/>
+<img alt="Jaime Bellolio" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl08_FotoDiputado" src="/img.aspx?prmid=chs970" width="55"/>
+<img alt="Bernardo Berger" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl09_FotoDiputado" src="/img.aspx?prmid=chs971" width="55"/>
+<img alt="Gabriel Boric" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl10_FotoDiputado" src="/img.aspx?prmid=chs972" width="55"/>
+<img alt="Pedro Browne" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl11_FotoDiputado" src="/img.aspx?prmid=chs927" width="55"/>
+<img alt="Cristián Campos" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl12_FotoDiputado" src="/img.aspx?prmid=chs929" width="55"/>
+<img alt="Karol Cariola" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl13_FotoDiputado" src="/img.aspx?prmid=chs973" width="55"/>
+<img alt="Lautaro Carmona" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl14_FotoDiputado" src="/img.aspx?prmid=chs930" width="55"/>
+<img alt="Loreto Carvajal" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl15_FotoDiputado" src="/img.aspx?prmid=chs974" width="55"/>
+<img alt="Juan Luis Castro" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl16_FotoDiputado" src="/img.aspx?prmid=chs931" width="55"/>
+<img alt="Guillermo Ceroni" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl17_FotoDiputado" src="/img.aspx?prmid=chs819" width="55"/>
+<img alt="Fuad Chahin" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl18_FotoDiputado" src="/img.aspx?prmid=chs934" width="55"/>
+<img alt="Marcelo Chávez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl19_FotoDiputado" src="/img.aspx?prmid=chs977" width="55"/>
+<img alt="Daniella Cicardini" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl20_FotoDiputado" src="/img.aspx?prmid=chs975" width="55"/>
+<img alt="Juan Antonio Coloma" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl21_FotoDiputado" src="/img.aspx?prmid=chs976" width="55"/>
+<img alt="Aldo Cornejo" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl22_FotoDiputado" src="/img.aspx?prmid=chs933" width="55"/>
+<img alt="Felipe De Mussy" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl23_FotoDiputado" src="/img.aspx?prmid=chs978" width="55"/>
+<img alt="Rojo Edwards" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl24_FotoDiputado" src="/img.aspx?prmid=chs935" width="55"/>
+<img alt="Sergio Espejo" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl25_FotoDiputado" src="/img.aspx?prmid=chs979" width="55"/>
+<img alt="Marcos Espinosa" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl26_FotoDiputado" src="/img.aspx?prmid=chs836" width="55"/>
+<img alt="Fidel Espinoza" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl27_FotoDiputado" src="/img.aspx?prmid=chs837" width="55"/>
+<img alt="Daniel Farcas" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl28_FotoDiputado" src="/img.aspx?prmid=chs980" width="55"/>
+<img alt="Ramón Farías" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl29_FotoDiputado" src="/img.aspx?prmid=chs839" width="55"/>
+<img alt="Maya Fernández" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl30_FotoDiputado" src="/img.aspx?prmid=chs981" width="55"/>
+<img alt="Iván Flores" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl31_FotoDiputado" src="/img.aspx?prmid=chs982" width="55"/>
+<img alt="Iván Fuentes" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl32_FotoDiputado" src="/img.aspx?prmid=chs983" width="55"/>
+<img alt="Gonzalo Fuenzalida" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl33_FotoDiputado" src="/img.aspx?prmid=chs984" width="55"/>
+<img alt="Sergio Gahona" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl34_FotoDiputado" src="/img.aspx?prmid=chs985" width="55"/>
+<img alt="René Manuel García" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl35_FotoDiputado" src="/img.aspx?prmid=chs843" width="55"/>
+<img alt="Cristina Girardi" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl36_FotoDiputado" src="/img.aspx?prmid=chs936" width="55"/>
+<img alt="Joaquín Godoy" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl37_FotoDiputado" src="/img.aspx?prmid=chs846" width="55"/>
+<img alt="Rodrigo González" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl38_FotoDiputado" src="/img.aspx?prmid=chs848" width="55"/>
+<img alt="Hugo Gutiérrez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl39_FotoDiputado" src="/img.aspx?prmid=chs937" width="55"/>
+<img alt="Romilio Gutiérrez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl40_FotoDiputado" src="/img.aspx?prmid=chs938" width="55"/>
+<img alt="Gustavo Hasbún" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl41_FotoDiputado" src="/img.aspx?prmid=chs939" width="55"/>
+<img alt="Javier Hernández" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl42_FotoDiputado" src="/img.aspx?prmid=chs850" width="55"/>
+<img alt="Marcela Hernando" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl43_FotoDiputado" src="/img.aspx?prmid=chs986" width="55"/>
+<img alt="María José Hoffmann" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl44_FotoDiputado" src="/img.aspx?prmid=chs940" width="55"/>
+<img alt="Miguel Ángel Alvarado" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl45_FotoDiputado" src="/img.aspx?prmid=chs1007" width="55"/>
+<img alt="Giorgio Jackson" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl46_FotoDiputado" src="/img.aspx?prmid=chs987" width="55"/>
+<img alt="Enrique Jaramillo" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl47_FotoDiputado" src="/img.aspx?prmid=chs854" width="55"/>
+<img alt="Carlos Abel Jarpa" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl48_FotoDiputado" src="/img.aspx?prmid=chs855" width="55"/>
+<img alt="Tucapel Jiménez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl49_FotoDiputado" src="/img.aspx?prmid=chs856" width="55"/>
+<img alt="José Antonio Kast" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl50_FotoDiputado" src="/img.aspx?prmid=chs857" width="55"/>
+<img alt="Felipe Kast" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl51_FotoDiputado" src="/img.aspx?prmid=chs988" width="55"/>
+<img alt="Issa Kort" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl52_FotoDiputado" src="/img.aspx?prmid=chs967" width="55"/>
+<img alt="Joaquín Lavín" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl53_FotoDiputado" src="/img.aspx?prmid=chs989" width="55"/>
+<img alt="Luis Lemus" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl54_FotoDiputado" src="/img.aspx?prmid=chs941" width="55"/>
+<img alt="Roberto León" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl55_FotoDiputado" src="/img.aspx?prmid=chs860" width="55"/>
+<img alt="Felipe Letelier" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl56_FotoDiputado" src="/img.aspx?prmid=chs177" width="55"/>
+<img alt="Pablo Lorenzini" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl57_FotoDiputado" src="/img.aspx?prmid=chs862" width="55"/>
+<img alt="Javier Macaya" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl58_FotoDiputado" src="/img.aspx?prmid=chs942" width="55"/>
+<img alt="Rosauro Martínez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl59_FotoDiputado" src="/img.aspx?prmid=chs863" width="55"/>
+<img alt="Patricio Melero" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl60_FotoDiputado" src="/img.aspx?prmid=chs865" width="55"/>
+<img alt="Daniel Melo" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl61_FotoDiputado" src="/img.aspx?prmid=chs990" width="55"/>
+<img alt="Fernando Meza" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl62_FotoDiputado" src="/img.aspx?prmid=chs866" width="55"/>
+<img alt="Vlado Mirosevic" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl63_FotoDiputado" src="/img.aspx?prmid=chs991" width="55"/>
+<img alt="Andrea Molina" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl64_FotoDiputado" src="/img.aspx?prmid=chs944" width="55"/>
+<img alt="Cristián Monckeberg" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl65_FotoDiputado" src="/img.aspx?prmid=chs867" width="55"/>
+<img alt="Nicolás Monckeberg" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl66_FotoDiputado" src="/img.aspx?prmid=chs868" width="55"/>
+<img alt="Manuel Monsalve" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl67_FotoDiputado" src="/img.aspx?prmid=chs869" width="55"/>
+<img alt="Celso Morales" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl68_FotoDiputado" src="/img.aspx?prmid=chs945" width="55"/>
+<img alt="Juan Enrique Morano" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl69_FotoDiputado" src="/img.aspx?prmid=chs992" width="55"/>
+<img alt="Claudia Nogueira" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl70_FotoDiputado" src="/img.aspx?prmid=chs874" width="55"/>
+<img alt="Iván Norambuena" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl71_FotoDiputado" src="/img.aspx?prmid=chs875" width="55"/>
+<img alt="Daniel Núñez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl72_FotoDiputado" src="/img.aspx?prmid=chs993" width="55"/>
+<img alt="Marco Antonio Núñez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl73_FotoDiputado" src="/img.aspx?prmid=chs876" width="55"/>
+<img alt="Paulina Núñez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl74_FotoDiputado" src="/img.aspx?prmid=chs994" width="55"/>
+<img alt="Sergio Ojeda" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl75_FotoDiputado" src="/img.aspx?prmid=chs877" width="55"/>
+<img alt="José Miguel Ortiz" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl76_FotoDiputado" src="/img.aspx?prmid=chs879" width="55"/>
+<img alt="Clemira Pacheco" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl77_FotoDiputado" src="/img.aspx?prmid=chs880" width="55"/>
+<img alt="Denise Pascal" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl78_FotoDiputado" src="/img.aspx?prmid=chs883" width="55"/>
+<img alt="Diego Paulsen" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl79_FotoDiputado" src="/img.aspx?prmid=chs995" width="55"/>
+<img alt="José Pérez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl80_FotoDiputado" src="/img.aspx?prmid=chs885" width="55"/>
+<img alt="Leopoldo Pérez" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl81_FotoDiputado" src="/img.aspx?prmid=chs946" width="55"/>
+<img alt="Jaime Pilowsky" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl82_FotoDiputado" src="/img.aspx?prmid=chs996" width="55"/>
+<img alt="Roberto Poblete" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl83_FotoDiputado" src="/img.aspx?prmid=chs997" width="55"/>
+<img alt="Yasna Provoste" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl84_FotoDiputado" src="/img.aspx?prmid=chs998" width="55"/>
+<img alt="Jorge Rathgeb" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl85_FotoDiputado" src="/img.aspx?prmid=chs999" width="55"/>
+<img alt="Ricardo Rincón" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl86_FotoDiputado" src="/img.aspx?prmid=chs947" width="55"/>
+<img alt="Gaspar Rivas" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl87_FotoDiputado" src="/img.aspx?prmid=chs948" width="55"/>
+<img alt="Alberto Robles" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl88_FotoDiputado" src="/img.aspx?prmid=chs888" width="55"/>
+<img alt="Luis Rocafull" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl89_FotoDiputado" src="/img.aspx?prmid=chs1000" width="55"/>
+<img alt="Karla Rubilar" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl90_FotoDiputado" src="/img.aspx?prmid=chs891" width="55"/>
+<img alt="Jorge Sabag" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl91_FotoDiputado" src="/img.aspx?prmid=chs893" width="55"/>
+<img alt="Marcela Sabat" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl92_FotoDiputado" src="/img.aspx?prmid=chs949" width="55"/>
+<img alt="René Saffirio" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl93_FotoDiputado" src="/img.aspx?prmid=chs950" width="55"/>
+<img alt="Raúl Saldívar" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl94_FotoDiputado" src="/img.aspx?prmid=chs1001" width="55"/>
+<img alt="David Sandoval" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl95_FotoDiputado" src="/img.aspx?prmid=chs951" width="55"/>
+<img alt="Alejandro Santana" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl96_FotoDiputado" src="/img.aspx?prmid=chs952" width="55"/>
+<img alt="Marcelo Schilling" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl97_FotoDiputado" src="/img.aspx?prmid=chs920" width="55"/>
+<img alt="Alejandra Sepúlveda" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl98_FotoDiputado" src="/img.aspx?prmid=chs897" width="55"/>
+<img alt="Gabriel Silber" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl99_FotoDiputado" src="/img.aspx?prmid=chs898" width="55"/>
+<img alt="Ernesto Silva" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl100_FotoDiputado" src="/img.aspx?prmid=chs954" width="55"/>
+<img alt="Leonardo Soto" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl101_FotoDiputado" src="/img.aspx?prmid=chs1002" width="55"/>
+<img alt="Arturo Squella" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl102_FotoDiputado" src="/img.aspx?prmid=chs955" width="55"/>
+<img alt="Jorge Tarud" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl103_FotoDiputado" src="/img.aspx?prmid=chs902" width="55"/>
+<img alt="Guillermo Teillier" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl104_FotoDiputado" src="/img.aspx?prmid=chs956" width="55"/>
+<img alt="Víctor Torres" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl105_FotoDiputado" src="/img.aspx?prmid=chs957" width="55"/>
+<img alt="Renzo Trisotti" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl106_FotoDiputado" src="/img.aspx?prmid=chs1003" width="55"/>
+<img alt="Joaquín Tuma" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl107_FotoDiputado" src="/img.aspx?prmid=chs958" width="55"/>
+<img alt="Marisol Turres" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl108_FotoDiputado" src="/img.aspx?prmid=chs905" width="55"/>
+<img alt="Jorge Ulloa" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl109_FotoDiputado" src="/img.aspx?prmid=chs906" width="55"/>
+<img alt="Christian Urízar" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl110_FotoDiputado" src="/img.aspx?prmid=chs1004" width="55"/>
+<img alt="Ignacio Urrutia" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl111_FotoDiputado" src="/img.aspx?prmid=chs908" width="55"/>
+<img alt="Osvaldo Urrutia" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl112_FotoDiputado" src="/img.aspx?prmid=chs1005" width="55"/>
+<img alt="Camila Vallejo" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl113_FotoDiputado" src="/img.aspx?prmid=chs1006" width="55"/>
+<img alt="Patricio Vallespín" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl114_FotoDiputado" src="/img.aspx?prmid=chs911" width="55"/>
+<img alt="Enrique Van Rysselberghe" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl115_FotoDiputado" src="/img.aspx?prmid=chs959" width="55"/>
+<img alt="Mario Venegas" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl116_FotoDiputado" src="/img.aspx?prmid=chs913" width="55"/>
+<img alt="Germán Verdugo" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl117_FotoDiputado" src="/img.aspx?prmid=chs915" width="55"/>
+<img alt="Matías Walker" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl118_FotoDiputado" src="/img.aspx?prmid=chs963" width="55"/>
+<img alt="Felipe Ward" border="0" height="55" id="ctl00_mainPlaceHolder_rptDiputados_ctl119_FotoDiputado" src="/img.aspx?prmid=chs919" width="55"/>

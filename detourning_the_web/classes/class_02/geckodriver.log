@@ -1,0 +1,104 @@
+1486084796100	geckodriver	INFO	Listening on 127.0.0.1:50236
+1486084797457	mozprofile::profile	INFO	Using profile path /var/folders/y6/zb22w_hx61l_6985gsnnmtn40000gn/T/rust_mozprofile.BZmmx7FiZHir
+1486084797459	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486084797513	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50246
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486084798970	Marionette	INFO	Listening on port 50246
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486084846964	geckodriver	INFO	Listening on 127.0.0.1:50695
+1486084847963	mozprofile::profile	INFO	Using profile path /var/folders/y6/zb22w_hx61l_6985gsnnmtn40000gn/T/rust_mozprofile.punXdPRFOpF0
+1486084847966	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486084847969	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50704
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486084848578	Marionette	INFO	Listening on port 50704
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://i.alicdn.com/sc-list/m/popup-inquiry-form/popup-inquiry-form.d663a79a.js, line 9: TypeError: window.MiniLoginEmbedder is not a constructor
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+1486084862127	geckodriver	INFO	Listening on 127.0.0.1:50868
+1486084863210	mozprofile::profile	INFO	Using profile path /var/folders/y6/zb22w_hx61l_6985gsnnmtn40000gn/T/rust_mozprofile.hyV38peCQnj9
+1486084863213	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486084863217	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50877
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486084863891	Marionette	INFO	Listening on port 50877
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 70869] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 70869] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486084968593	geckodriver	INFO	Listening on 127.0.0.1:51046
+1486084969652	mozprofile::profile	INFO	Using profile path /var/folders/y6/zb22w_hx61l_6985gsnnmtn40000gn/T/rust_mozprofile.YrLxnng8S4hf
+1486084969654	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486084969658	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51056
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486084970232	Marionette	INFO	Listening on port 51056
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://i.alicdn.com/sc-list/m/popup-inquiry-form/popup-inquiry-form.d663a79a.js, line 9: TypeError: window.MiniLoginEmbedder is not a constructor
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+1486084985119	geckodriver	INFO	Listening on 127.0.0.1:51203
+1486084986116	mozprofile::profile	INFO	Using profile path /var/folders/y6/zb22w_hx61l_6985gsnnmtn40000gn/T/rust_mozprofile.IseQi6cjF6hn
+1486084986118	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486084986121	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51212
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486084986687	Marionette	INFO	Listening on port 51212
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://i.alicdn.com/sc-list/m/popup-inquiry-form/popup-inquiry-form.d663a79a.js, line 9: TypeError: window.MiniLoginEmbedder is not a constructor
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+[Child 71047] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 71047] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486085108246	geckodriver	INFO	Listening on 127.0.0.1:51460
+1486085109232	mozprofile::profile	INFO	Using profile path /var/folders/y6/zb22w_hx61l_6985gsnnmtn40000gn/T/rust_mozprofile.GrpC1B1Z8RNU
+1486085109234	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486085109238	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51470
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486085109804	Marionette	INFO	Listening on port 51470
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://i.alicdn.com/sc-list/m/popup-inquiry-form/popup-inquiry-form.d663a79a.js, line 9: TypeError: window.MiniLoginEmbedder is not a constructor
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+1486085141120	geckodriver	INFO	Listening on 127.0.0.1:51706
+1486085142124	mozprofile::profile	INFO	Using profile path /var/folders/y6/zb22w_hx61l_6985gsnnmtn40000gn/T/rust_mozprofile.gP9CwwQdNpPL
+1486085142127	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486085142131	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51717
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486085142887	Marionette	INFO	Listening on port 51717
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://i.alicdn.com/sc-list/m/trade-alert/trade-alert.cd680bdc.js, line 6: TypeError: window.MiniLoginEmbedder is not a constructor
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+JavaScript error: http://compass.alibaba.com/search/purchasingrec/AsyncGetPurchasingRec.do?keyword=high%20quality%20drugs&disCateId=&callback=jQuery183046717007272613187_1486085146325&dmtrack_pageid=d8a55fe30ab0a9c65893dc1915a0193c65b1be48cf&_=1486085151708, line 3: TypeError: jQuery183046717007272613187_1486085146325 is not a function
+1486085246206	geckodriver	INFO	Listening on 127.0.0.1:51980
+1486085247207	mozprofile::profile	INFO	Using profile path /var/folders/y6/zb22w_hx61l_6985gsnnmtn40000gn/T/rust_mozprofile.PyHiEi3qzMMN
+1486085247210	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486085247213	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51989
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486085247779	Marionette	INFO	Listening on port 51989
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 71409] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 71409] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486085271616	geckodriver	INFO	Listening on 127.0.0.1:52099
+1486085272607	mozprofile::profile	INFO	Using profile path /var/folders/y6/zb22w_hx61l_6985gsnnmtn40000gn/T/rust_mozprofile.mjea2OM7U7HJ
+1486085272609	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486085272612	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52108
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486085273158	Marionette	INFO	Listening on port 52108
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://i.alicdn.com/sc-list/m/popup-inquiry-form/popup-inquiry-form.d663a79a.js, line 9: TypeError: window.MiniLoginEmbedder is not a constructor
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+1486085358878	geckodriver	INFO	Listening on 127.0.0.1:52370
+1486085359961	mozprofile::profile	INFO	Using profile path /var/folders/y6/zb22w_hx61l_6985gsnnmtn40000gn/T/rust_mozprofile.x6KuDOstcMPO
+1486085359963	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486085359966	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52380
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486085360560	Marionette	INFO	Listening on port 52380
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://i.alicdn.com/sc-list/m/popup-inquiry-form/popup-inquiry-form.d663a79a.js, line 9: TypeError: window.MiniLoginEmbedder is not a constructor
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+JavaScript warning: http://i.alicdn.com/sc-webatm/??webatm.c483657f.js, line 8: unreachable code after return statement
+1486085422357	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
