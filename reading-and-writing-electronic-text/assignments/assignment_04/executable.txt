@@ -1,0 +1,11 @@
+clear
+python this.py > text_modified_01.txt
+cat text_modified_01.txt
+python this.py > text_modified_02.txt
+cat text_modified_02.txt
+python this.py > text_modified_03.txt
+cat text_modified_03.txt
+python this.py > text_modified_04.txt
+cat text_modified_04.txt
+python this.py > text_modified_05.txt
+cat text_modified_05.txt

@@ -1,0 +1,2 @@
+python this.py < text_original.txt > text_modified.txt
+cat text_modified.txt

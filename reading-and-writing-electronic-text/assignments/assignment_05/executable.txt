@@ -1,0 +1,5 @@
+clear
+python wip.py "Weezer" "Island in the Sun" > island.txt
+python wip.py "Weezer" "Undone - The Sweater Song" > undone.txt
+python wip.py "Bomba Estereo" "El Alma y el Cuerpo" > alma.txt
+python wip.py "Pixies" "Wave of Mutilation" > wave.txt
