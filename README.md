@@ -1,5 +1,6 @@
-# itp_archive
-archive of classes i took
+# nyu-itp
+
+archive of my experience at nyu itp
 
 ## first semester, 2015
 
